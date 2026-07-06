@@ -12,3 +12,10 @@ body{
     width:1310 px;
     margin:30px auto;
 }
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+    margin-bottom:20px;
+}
