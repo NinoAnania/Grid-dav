@@ -24,3 +24,13 @@ body{
     font-size: 48px;
     font-weight: 400;
 }
+.header img{
+    width:36 px;
+    filter:invert(1)
+}
+.grid{
+    display: grid;
+    grid-template-columns:320px 320px 320px 320px;
+    grid-template-rows:165px 165px 110px 135px 130px;
+    gap:12px;
+}
