@@ -34,3 +34,11 @@ body{
     grid-template-rows:165px 165px 110px 135px 130px;
     gap:12px;
 }
+.item{
+    background: #fff;
+    color:#1b1b8b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 28px;
+}
