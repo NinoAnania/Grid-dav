@@ -3,9 +3,13 @@
     padding: 0;
     box-sizing border-box;
 }
-.body{
-    background-color: #1a0dab;
+body{
+    background-color: #07079f;
     font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper{
+    width: 1310px;
+    margin: 30px auto;
 }
 .grid{
     display: grid;
