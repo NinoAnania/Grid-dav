@@ -19,3 +19,8 @@ body{
     align-items:center;
     margin-bottom:20px;
 }
+.header h1{
+    color:#fff;
+    font-size: 48px;
+    font-weight: 400;
+}
